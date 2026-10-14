@@ -11,5 +11,5 @@ AI helps me brainstorm, debug, and explore ideas, but understanding the result m
 ## Links
 
 - GitHub: [@0xAnomaly137](https://github.com/0xAnomaly137)
-- Portfolio content and project list: [`https"://0xAnomaly.github.io"`](0xAnomaly.github.io)
+- Portfolio content and project list: https://0xAnomaly.github.io
 
